@@ -2,7 +2,7 @@
 
 Forest fires cause major damage in northern Algeria every summer. This project predicts **where and when forest fires are likely to start in the wilaya of Béjaïa** (Kabylie, Algeria). It combines geospatial and daily weather data with machine learning, then maps the risk with a GIS fire-risk index in a web application.
 
-> 🎓 Bachelor's final-year project (Licence ISIL, Computer Science), **USTHB**, Algiers, defended on 4 June 2024
+> 🎓 Bachelor's final-year project (Licence ISIL, Computer Science), carried out at the **[LSI – Computer Systems Laboratory](https://lsi.usthb.dz/pages/Acceuil)**, Faculty of Computer Science, **USTHB**, Algiers, defended on 4 June 2024
 > Team: **Wafaa Berrais** & **Douaa Boutehra** · Supervisors: Brahim Bessaa & Karim Atif
 > Full thesis (French): [`docs/thesis_fr.pdf`](docs/thesis_fr.pdf)
 
