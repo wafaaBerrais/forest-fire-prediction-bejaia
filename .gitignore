@@ -1,0 +1,21 @@
+# Data and models (see data/README.md)
+data/*
+!data/README.md
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.pkl
+*.joblib
+
+# Python / Jupyter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
